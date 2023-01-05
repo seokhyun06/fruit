@@ -1,4 +1,4 @@
-# test1
+# java object example
 # 객체 클래스 이용 예제
 
 # [구현환경]
